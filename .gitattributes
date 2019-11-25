@@ -58,3 +58,6 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 .csv filter=lfs diff=lfs merge=lfs -text
+IpLocator/Data/asn-blocks.csv filter=lfs diff=lfs merge=lfs -text
+IpLocator/Data/city-blocks.csv filter=lfs diff=lfs merge=lfs -text
+IpLocator/Data/city-locations.csv filter=lfs diff=lfs merge=lfs -text
