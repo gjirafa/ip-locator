@@ -65,7 +65,7 @@ example: /details/1.1.1.1 returns:
 ```
 ## How to use
 
-Clone the repo in your host machine using. Also you need to use git lfs (Git for large files) because the file inside Data directory which contain IP ranges are over 100MB in size. After you close the entire repo (including data) you can build and run the project using dotnet sdk tools. The app listens for request in port: 5000 (you can modify the port in launchSettings.json file).
+Clone the repo in your host machine. Also you need to use git lfs (Git for large files) because the file inside Data directory which contain IP ranges are over 100MB in size. After you close the entire repo (including data) you can build and run the project using dotnet sdk tools. The app listens for request in port: 5000 (you can modify the port in launchSettings.json file).
 
 ## Important
 
